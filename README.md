@@ -1,22 +1,36 @@
 
 <div align="center">
 
-<img src="github-banner.png" width="100%" alt="Kuruva Jayaram | Software Engineer"/>
+<!-- HERO BANNER -->
+<img src="github-banner.png" width="100%" alt="Kuruva Jayaram - Software Engineer"/>
 
 <br/>
 
+<!-- ANIMATED INTRODUCTION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+AI-Powered+Applications;Learn+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Improve" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Kuruva+Jayaram+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+AI-Powered+Applications;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG"/>
 </a>
 
+<br/>
+
+### Building • Learning • Innovating
+
 <p>
-<a href="https://linkedin.com/in/jaya-ram-774646314"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/jayaram5685"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/jayaram_5685"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/kuruvajayaram3"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jaya-ram-774646314">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/jayaram5685">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/jayaram_5685">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/kuruvajayaram3">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jayaram5685&label=PROFILE%20VIEWS&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=jayaram5685&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -26,37 +40,42 @@
 
 ```yaml
 name: Kuruva Jayaram
-role: Software Engineering Intern | Full-Stack Developer
-education: B.Tech Computer Science & Engineering
+role: Software Engineering Intern
+education: B.Tech - Computer Science & Engineering
 graduation: 2027
-interests:
-  - Full-Stack Engineering
+
+focus:
+  - Software Engineering
+  - Full-Stack Development
   - AWS Cloud & DevOps
   - AI-Powered Applications
-  - Backend Systems & System Design
-  - Data Structures & Problem Solving
+  - Backend Engineering
+  - System Design
+
 currently_building: ATMA (AWSBot)
 ```
 
-I'm a final-year Computer Science student passionate about building useful software and understanding how applications work end to end — from frontend experiences and backend APIs to databases, cloud infrastructure, and deployment.
+I'm a Computer Science engineering student passionate about designing, developing and deploying real-world software applications.
 
-- 🔭 Working on **ATMA (AWSBot)** — a multi-tenant, AWS-native AI chatbot platform.
-- ☁️ Exploring **AWS, Terraform, Docker, CI/CD, and cloud-native architecture**.
-- 🧠 Strengthening my foundations in **DSA, DBMS, Operating Systems, and Computer Networks**.
-- 🛠️ Interested in building reliable, scalable, user-focused applications.
-- 🎯 Focused on continuous learning and growing as a software engineer.
+I enjoy working across the entire development lifecycle — from building interactive frontend experiences and scalable backend APIs to database architecture, cloud infrastructure and production deployments.
+
+- 🔭 Building **ATMA (AWSBot)**, a multi-tenant AWS-native AI chatbot platform.
+- ☁️ Working with AWS, Terraform, Docker and cloud infrastructure.
+- 🤖 Exploring AI integration, RAG architectures and intelligent applications.
+- 💻 Interested in scalable backend systems and full-stack engineering.
+- 🧠 Continuously improving my DSA and computer science fundamentals.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,c&theme=dark"/>
 
-### Frontend
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark"/>
 
@@ -64,24 +83,28 @@ I'm a final-year Computer Science student passionate about building useful softw
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark"/>
 
-### Cloud, DevOps & Tools
+### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,github&theme=dark"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark"/>
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Software Engineering Intern — ASHTek Minds
 *July 2026 – Present*
 
-- Contributing to software engineering work in a remote internship environment.
-- Working through implementation, debugging, and collaborative development workflows.
-- Developing practical experience with modern application engineering.
+- Contributing to software engineering and application development.
+- Working on implementation, debugging and development workflows.
+- Gaining practical experience in collaborative software engineering.
 
-### Earlier Experience
+### Previous Experience
 
 - **Full-Stack Developer Intern** — Unified Mentor
 - **Python Development Intern** — Zaalima Development
@@ -91,44 +114,66 @@ I'm a final-year Computer Science student passionate about building useful softw
 
 ## 🚀 Featured Projects
 
-### 01. ATMA (AWSBot) — Multi-Tenant AI Chatbot Platform
+### 01. ATMA (AWSBot)
+**Multi-Tenant AWS-Native AI Chatbot Platform**
 
-An AWS-native conversational platform designed for clinic workflows.
+An intelligent chatbot platform designed to support clinic operations through AI-powered conversations and appointment workflows.
 
+**Key Contributions:**
 - Worked on multi-tenant architecture with tenant-level data isolation.
-- Built backend functionality using **Node.js and Express**, alongside a **React** administration experience.
-- Integrated **Amazon Bedrock** for RAG and tool-calling workflows.
-- Worked on appointment workflows, slot validation, and email notifications using **Amazon SES**.
+- Developed backend functionality using Node.js and Express.
+- Built React-based administration interfaces.
+- Integrated Amazon Bedrock for RAG and tool-calling workflows.
+- Implemented appointment workflows with slot validation.
+- Integrated Amazon SES for email notifications.
 - Contributed to WebSocket-based live-agent handover.
-- Helped migrate the data layer from **Amazon DynamoDB to PostgreSQL**.
-- Authored **Terraform** infrastructure for AWS resources including S3 and CloudFront.
+- Worked on migration from DynamoDB to PostgreSQL.
+- Authored Terraform infrastructure for S3 and CloudFront.
+
+**Technology Stack:**
 
 `Node.js` `Express` `React` `PostgreSQL` `Amazon Bedrock` `Amazon SES` `AWS` `Terraform` `WebSockets`
 
+---
+
 ### 02. AI-Powered Personal Finance Manager
+**Full-Stack Financial Management Application**
 
-A full-stack application for tracking and understanding personal finances.
+A web application designed to help users track and manage their personal finances.
 
-- Developed backend APIs with Node.js and Express.
-- Used MongoDB for persistence and JWT for authentication.
-- Built the frontend using React.
-- Worked with Vercel and Render deployment.
+**Key Features:**
+- Backend APIs using Node.js and Express.
+- MongoDB database integration.
+- JWT-based authentication.
+- React frontend.
+- Frontend and backend deployment.
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+**Technology Stack:**
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Vercel` `Render`
+
+---
 
 ### 03. Dockerized Web Server
+**Containerization & Deployment Project**
 
-A practical project exploring containerized web deployment.
+A practical project focused on understanding containerization and web server deployment.
 
-- Practiced packaging and running a web server with Docker.
-- Explored Linux-based server configuration and deployment fundamentals.
+**Key Features:**
+- Docker-based application packaging.
+- Linux server fundamentals.
+- Container configuration and deployment.
+
+**Technology Stack:**
 
 `Docker` `Linux` `Web Server`
+
+---
 
 <div align="center">
 
 <a href="https://github.com/jayaram5685?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -139,30 +184,38 @@ A practical project exploring containerized web deployment.
 
 <div align="center">
 
-| Certification | Issuer |
-|:--|:--|
-| AWS Certified Cloud Practitioner | Amazon Web Services |
-| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle |
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
 
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=jayaram5685&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true"/>
+### Contribution Streak
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaram5685&layout=compact&hide_border=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayaram5685&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Contribution Streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=jayaram5685&theme=tokyonight&hide_border=true"/>
+### GitHub Profile Overview
 
-<br/>
+<img src="https://img.shields.io/github/followers/jayaram5685?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayaram5685&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://img.shields.io/github/stars/jayaram5685?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="Stars"/>
+
+<br/><br/>
+
+### Contribution Calendar
+
+<img src="https://ghchart.rshah.org/38BDF8/jayaram5685" alt="Jayaram's GitHub Contributions" width="100%"/>
 
 </div>
 
@@ -170,7 +223,7 @@ A practical project exploring containerized web deployment.
 
 ## 🧩 Problem Solving
 
-I continuously improve my programming fundamentals through regular practice and problem-solving.
+I continuously practice programming and strengthen my problem-solving skills through coding challenges.
 
 <div align="center">
 
@@ -190,21 +243,29 @@ I continuously improve my programming fundamentals through regular practice and 
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linkedin,github,instagram&theme=dark"/>
+<a href="https://linkedin.com/in/jaya-ram-774646314">
+<img src="https://img.shields.io/badge/LinkedIn-Jayaram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jayaram5685">
+<img src="https://img.shields.io/badge/GitHub-jayaram5685-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/__jai__56_">
+<img src="https://img.shields.io/badge/Instagram-__jai__56_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/jayaram_5685">
+<img src="https://img.shields.io/badge/LeetCode-jayaram__5685-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/kuruvajayaram3">
+<img src="https://img.shields.io/badge/HackerRank-kuruvajayaram3-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**LinkedIn:** [Jayaram](https://linkedin.com/in/jaya-ram-774646314)
-
-**GitHub:** [@jayaram5685](https://github.com/jayaram5685)
-
-**LeetCode:** [jayaram_5685](https://leetcode.com/jayaram_5685)
-
-**HackerRank:** [kuruvajayaram3](https://www.hackerrank.com/kuruvajayaram3)
-
-**Instagram:** [@__jai__56_](https://instagram.com/__jai__56_)
+### 💬 Open to Learning, Collaboration & Opportunities
 
 </div>
 
@@ -212,8 +273,8 @@ I continuously improve my programming fundamentals through regular practice and 
 
 <div align="center">
 
-### ⚡ Learn Continuously · Build Thoughtfully · Deploy Confidently
+### ⚡ Learn Continuously. Build Fearlessly. Deploy Confidently.
 
-*Thanks for visiting my GitHub profile!*
+**Thanks for visiting my GitHub profile!** ⭐
 
 </div>
